@@ -95,6 +95,9 @@ body {
   
   
 }
+.flip-card-front .inner .icon {
+  filter: invert(100%);
+}
 .flip-card-back .inner .icon {
   filter: invert(100%);
 }
